@@ -1,0 +1,13 @@
+:root {
+  --pokemon-card: #820000;
+  --color-font: #faecd6;
+  --color-border: #ececec;
+  --card-font-family: ;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}

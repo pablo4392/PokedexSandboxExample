@@ -1,0 +1,8 @@
+.pokemon-card {
+  margin: 15px 0;
+  border: solid var(--color-border);
+  padding: 0.5rem;
+  border-radius: 1rem;
+  background-color: var(--pokemon-card);
+  color: var(--color-font);
+}
